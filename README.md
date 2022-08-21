@@ -4,7 +4,7 @@ Submitted on 21st Aug 2022 by Mkao
 
 This app was developed following a pre-work assignement on CodePath. Its a simple app with a button, textview and ImageView . Whenever the button is clicked it throws a message (snackabar)
 
-Time spent: 2 hours spent in total
+Time spent: 15min spent in total
 
 ## Required Features
 
